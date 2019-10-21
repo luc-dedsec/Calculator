@@ -1,0 +1,11 @@
+
+public int somma(int a,int b){
+   somma=a+b;
+   return somma;
+}
+
+public int differenza(int a,int b){
+differenza=a-b
+return differenza;
+
+}
