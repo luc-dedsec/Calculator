@@ -1,5 +1,0 @@
-
-public int somma(int a,intb){
-   somma=a+b;
-   return somma;
-}
