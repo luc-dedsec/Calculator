@@ -1,0 +1,12 @@
+public void divisione(float a,float b){
+divisione=a/b:
+return divisione;
+if (b<0)
+return:
+}
+
+
+public void moltiplicazione(float a,float b){
+divisione=a*b:
+return moltiplicazione;
+}
